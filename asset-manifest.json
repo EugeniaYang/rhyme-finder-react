@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rhyme-finder-react/static/css/main.927e4c44.css",
+    "main.js": "/rhyme-finder-react/static/js/main.4880987c.js",
+    "static/js/787.f9678fce.chunk.js": "/rhyme-finder-react/static/js/787.f9678fce.chunk.js",
+    "index.html": "/rhyme-finder-react/index.html",
+    "main.927e4c44.css.map": "/rhyme-finder-react/static/css/main.927e4c44.css.map",
+    "main.4880987c.js.map": "/rhyme-finder-react/static/js/main.4880987c.js.map",
+    "787.f9678fce.chunk.js.map": "/rhyme-finder-react/static/js/787.f9678fce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927e4c44.css",
+    "static/js/main.4880987c.js"
+  ]
+}
