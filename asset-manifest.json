@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rhyme-finder-react/static/css/main.927e4c44.css",
-    "main.js": "/rhyme-finder-react/static/js/main.f2dccae6.js",
+    "main.js": "/rhyme-finder-react/static/js/main.6b1f0ee7.js",
     "static/js/787.f9678fce.chunk.js": "/rhyme-finder-react/static/js/787.f9678fce.chunk.js",
     "index.html": "/rhyme-finder-react/index.html",
     "main.927e4c44.css.map": "/rhyme-finder-react/static/css/main.927e4c44.css.map",
-    "main.f2dccae6.js.map": "/rhyme-finder-react/static/js/main.f2dccae6.js.map",
+    "main.6b1f0ee7.js.map": "/rhyme-finder-react/static/js/main.6b1f0ee7.js.map",
     "787.f9678fce.chunk.js.map": "/rhyme-finder-react/static/js/787.f9678fce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.927e4c44.css",
-    "static/js/main.f2dccae6.js"
+    "static/js/main.6b1f0ee7.js"
   ]
 }
