@@ -30,9 +30,11 @@ const RhymeListing = (props) => {
 
     const generateWords = () => {
         let wordOutput = [];
-        if (props.rhymedWords === '...loading')
+        if (props.rhymedWords === '...loading') {
+            console.log("...loading")
             return (<p>...loading</p>)
-        if (props.type === 'rhyme') {
+        }
+        else if (props.type === 'rhyme') {
             if (props.rhymedWords.length === 0)
                 return <p>(no results)</p>
             const groupedWords = groupBy(props.rhymedWords, 'numSyllables');
@@ -53,7 +55,6 @@ const RhymeListing = (props) => {
                     </WordInstance>
                 ))
         }
-
         return wordOutput;
     }
 

@@ -22,6 +22,7 @@ const SearchBar = (props) => {
         e.preventDefault();
         setOutputDescription('Words that rhymes with '+ `${theWord}`)
         if (theWord) {
+            props.setRhymedWords('...loading');
             fetch(getDatamuseRhymeUrl({theWord}))
                 .then((response) => response.json())
                 .then((json) => props.setRhymedWords(Object.values(json)));
